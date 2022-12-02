@@ -59,3 +59,25 @@ Contributors
 * Mark Galloway
 * Abram Hindle
 * Cole Mackenzie
+
+Collaborators
+=============
+I did not collaborate with any other students or other persons for this assignment.
+
+References
+=============
+Icons
+* [Circle icons created by Freepik - Flaticon](https://www.flaticon.com/free-icons/circle)
+* [Star icons created by mim_studio - Flaticon](https://www.flaticon.com/free-icons/star)
+* [Square icons created by Roundicons Premium - Flaticon](https://www.flaticon.com/free-icons/shape)
+* [Triangle icons created by Freepik - Flaticon](https://www.flaticon.com/free-icons/triangle)
+
+Reference Code
+* A lot of my code for this assignment was reused from the [previous](https://github.com/corlick98/CMPUT404-assignment-ajax) assignment
+* [Bottom Modal code inspired by w3schools](https://www.w3schools.com/howto/howto_css_modals.asp)
+* [Random Color generator adapted from Martin Ankerl](https://martin.ankerl.com/2009/12/09/how-to-create-random-colors-programmatically/)
+* [Using images instead of radio buttons](https://stackoverflow.com/questions/17541614/use-images-instead-of-radio-buttons)
+* [Drawing a star with Canvas](https://stackoverflow.com/a/45140101)
+* [Using Canvas](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Drawing_shapes)
+* [Using Flask](https://flask.palletsprojects.com/en/2.2.x/api/)
+* [Dr. Hindle's Web-socket examples](https://github.com/abramhindle/WebSocketsExamples/blob/master/chat.py)
